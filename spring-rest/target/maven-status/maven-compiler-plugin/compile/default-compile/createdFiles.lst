@@ -1,0 +1,3 @@
+com\sr\config\RestConfig.class
+com\sr\boot\MySpringRestDispatcherServletInitializer.class
+com\sr\resources\NetbankingService.class
